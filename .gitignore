@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+*.pt
+*.mp4
+*.avi
+.vscode/
+.idea/
